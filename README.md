@@ -40,7 +40,7 @@ The configuration details of each machine may be found below.
 |  Web-1     |  Web Server           |  10.0.0.5    |  Linux             |
 |  Web-2     |  Web Server           |  10.0.0.6    |  Linux             |
 |  Web-3     |  Web Server           |  10.0.0.7    |  Linux             |
-|  ELK       |  ElasticSearch Stack  |  10.1.0.4    |  Linux             |    |          |            |                  |
+|  ELK       |  ElasticSearch Stack  |  10.1.0.4,168.62.211.128 |  Linux |
 
 ### Access Policies
 
